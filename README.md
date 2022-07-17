@@ -1,6 +1,6 @@
 # marvel-app
 
-This template should help get you started developing with Vue 3 in Vite.
+## puntos 1 y 2 incluidos en technical-test.zip
 
 ## Recommended IDE Setup
 
